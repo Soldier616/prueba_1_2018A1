@@ -1,0 +1,3 @@
+	Invertir texto
+Cadena de texto: Diego Pilamunga
+Cadena de texto invertida: agnumaliP ogeiD
